@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Colter, Noah, and Daniel
 format: html
 editor: visual
 embed-resources: true

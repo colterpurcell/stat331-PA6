@@ -7,5 +7,5 @@ embed-resources: true
 ---
 
 ```{r}
-11 * 11
+14 * 14
 ```

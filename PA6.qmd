@@ -7,5 +7,9 @@ embed-resources: true
 ---
 
 ```{r}
+<<<<<<< HEAD
 15 * 15
+=======
+14 * 14
+>>>>>>> 3c0471be09ed37bba7bcbcdad4a176c408fe01d0
 ```

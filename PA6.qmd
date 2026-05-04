@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: "Noah, Colter, Daniel"
+author: "Daniel Hopkins, Noah Alikian, Colter Purcell"
 format: html
 editor: visual
 embed-resources: true
